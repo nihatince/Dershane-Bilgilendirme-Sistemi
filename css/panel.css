@@ -1,0 +1,19 @@
+html,body{
+    background-image: url(/img/background3.jpg);
+    height: 100%;
+    
+    }
+    .navbar{
+        font-size:large;
+        
+    }
+    .card{
+        height:850px;
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 600px;
+        background-color: rgba(0,0,0,0.5) !important;
+        }
+    .card-header h3{
+        color: white;
+        }
